@@ -1,0 +1,4 @@
+[core]
+    remote = mremote
+['remote "mremote"']
+    url = ../storage
